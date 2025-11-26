@@ -1,0 +1,6 @@
+daytime
+
+*.o
+
+*~
+*.swp
