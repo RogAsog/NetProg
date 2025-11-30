@@ -1,5 +1,5 @@
 client:
-	g++ -Wall echo.cpp -o daytime
+	g++ -Wall echo.cpp -o echo
 
 clean:
 	rm -f echo
